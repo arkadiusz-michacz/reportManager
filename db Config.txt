@@ -1,0 +1,7 @@
+<database type ms/postgre/maria>
+<database ip:port>
+<db login>
+<db password>
+<email address>
+<email password>
+<email server>

@@ -1,0 +1,9 @@
+#
+<raport name>
+<db query, keep in one line>
+<raport recipients (emails) separate with comas if multiple>
+<time of the raport hh:mm>
+<raport interval (does not work, put 24)>
+<filetype xls/pdf (pdf kinda works, but i'd recommend xls)>
+#
+<next task, separate tasks with #>
